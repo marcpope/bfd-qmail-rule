@@ -2,7 +2,7 @@
 A rule for BFD (Brute Force Detection) Script for qmail
 https://www.rfxn.com/projects/brute-force-detection/
 
-Add this qmail rule to your rules folder (typically /usr/local/bdf/rules)
+Add this qmail rule to your rules folder (typically /usr/local/bfd/rules)
 
 ```
 PORTS="25"
