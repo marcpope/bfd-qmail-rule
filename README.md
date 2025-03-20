@@ -1,3 +1,5 @@
+## note, I recommend using this instead: https://github.com/marcpope/interworx_qmail_block
+
 # bfd-qmail-rule
 A rule for BFD (Brute Force Detection) Script for qmail
 https://www.rfxn.com/projects/brute-force-detection/
